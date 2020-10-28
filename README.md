@@ -1,2 +1,1 @@
-# Solved
-This is a collection of interesting problems solution.
+Solved programming problems by me from different Competitive_Programming website mainly from Hackerrank, Codeforces, URIonlinejudge.
